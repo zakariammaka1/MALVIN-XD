@@ -8,15 +8,16 @@
 <img align="center" height="auto"
 src="https://files.catbox.moe/bddvfr.jpg?"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg)
 <br>
 
    </p>
 <p align="center">
-<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/Malvin King-purple?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/Yt Channel-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/Malvin King-purple?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/Yt Channel-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=red&style=flat-square"></a>
+<a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=purple&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingmalvn/MALVIN-XD?color=blue&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-XD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/MALVIN-XD?color=blue&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-XD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/MALVIN-XD?label=Watchers&color=blue&style=flat-square"></a>
@@ -48,7 +49,7 @@ src="https://files.catbox.moe/bddvfr.jpg?"/>
 
 *_You will need a session ID to run the MALVIN-XD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
 
-<p align="left">
+<p align="centre">
 <a href='https://malvinxpair-43d986d85eed.herokuapp.com/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 **3. 2nd App session** 
@@ -59,7 +60,7 @@ src="https://files.catbox.moe/bddvfr.jpg?"/>
 
 
 
-**0.1 Deploy to any hosting of ur choice**
+**Now Deploy to any hosting of ur choice**
 
 **1.Heroku Deploy**
 
@@ -145,7 +146,7 @@ jobs:
 </details> 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
-`✠ 𝘏𝘖𝘞 𝘛𝘖 𝘋𝘌𝘗𝘓𝘖𝘠 𝘔𝘈𝘓𝘝𝘐𝘕 X𝘔𝘋 𝘖𝘕 𝘞𝘖𝘙𝘒𝘍𝘓𝘖𝘞𝘚 𝘍𝘙𝘌𝘌 𝘎𝘐𝘛𝘏𝘜𝘉 𝘞𝘈𝘛𝘊𝘏 𝘝𝘐𝘋𝘌𝘖 ✠`
+`✠ 𝘏𝘖𝘞 𝘛𝘖 𝘋𝘌𝘗𝘓𝘖𝘠 𝘔𝘈𝘓𝘝𝘐𝘕 X𝘋 𝘖𝘕 𝘞𝘖𝘙𝘒𝘍𝘓𝘖𝘞𝘚 𝘍𝘙𝘌𝘌 𝘎𝘐𝘛𝘏𝘜𝘉 𝘞𝘈𝘛𝘊𝘏 𝘝𝘐𝘋𝘌𝘖 ✠`
 
 
 <p align="center">
@@ -162,6 +163,7 @@ jobs:
 
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
+   <br>
 
 
 <a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
@@ -173,7 +175,9 @@ Stay connected with the latest updates and community by joining our official Wha
 <a href="https://youtube.com/@malvintech2"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 </details>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+
 <h2 align="left">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
 <p style="text-align: center; font-size: 1.2em;">
   <strong>NB 🚫</strong><br>
@@ -192,5 +196,11 @@ _ⁱ’ᵐ ⁿᵒᵗ ʳᵉˢᵖᵒⁿˢⁱᵇˡᵉ ᶠᵒʳ ʸᵒᵘ ᵐᵉˢˢ�
 ***`WARNING` : `𝘋𝘖𝘕'𝘛 𝘔𝘖𝘋𝘐𝘍𝘠 𝘛𝘏𝘐𝘚 𝘉𝘖𝘛 𝘍𝘐𝘙𝘚𝘛 𝘐𝘕𝘍𝘖𝘙𝘔 𝘛𝘏𝘌 𝘖𝘞𝘕𝘌𝘙`***
 
 <p align="center">
-  <a href="https://wa.me/+263776388689?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-xᴍᴅ+ʀᴇᴘᴏ!!.+ɪᴀᴍ+ᴀsᴋɪɴɢ+ғᴏʀ+ᴘᴇʀᴍɪssɪᴏɴ+ᴛᴏ+ᴄʟᴏɴᴇ+ʏᴏᴜʀ+ʙᴏᴛ!!*" target="_blank">
+  <a href="https://wa.me/+263776388689?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-xᴅ+ʀᴇᴘᴏ!!.+ɪᴀᴍ+ᴀsᴋɪɴɢ+ғᴏʀ+ᴘᴇʀᴍɪssɪᴏɴ+ᴛᴏ+ᴄʟᴏɴᴇ+ʏᴏᴜʀ+ʙᴏᴛ+ɪ+ᴡɪʟʟ+ɢɪᴠᴇ+ᴘʀᴏᴘᴇʀ+ᴄʀᴇᴅɪᴛ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -green?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<br>
+
+## Feedback
+If you have any feedback, please reach out to us at nexusxd.bot@gmail.com
+
+### <br> No LOVE 💕 NO STRESS ☺️

@@ -1,7 +1,7 @@
 {
-  "name": "✦MALVIN-XD✦",
+  "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
   "description": "Javascript WhatsApp bot made by ɴᴇxᴜs ᴛᴇᴄʜ🪀",
-  "logo": "https://files.catbox.moe/ktd1l4.jpg",
+  "logo": "https://files.catbox.moe/bddvfr.jpg",
   "keywords": ["MALVIN XD"],
   "success_url": "/",
 
@@ -12,6 +12,12 @@
       "required": true,
       "value": ""
     },  
+    
+    "MENU_IMG": {
+      "description": "paste your image url if you don't have you can use this public url.",
+      "required": false,
+      "value": "https://files.catbox.moe/bddvfr.jpg"
+    }, 
     
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
@@ -63,7 +69,6 @@
       "value": "false"
     }, 
 
-
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
@@ -76,7 +81,7 @@
       "value": "false"
     }, 
 
-    "AUTO_STATUS__MSG": {
+    "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
       "value": "*🎉👀 Seen by Nexus Tech🚀🔥*"
@@ -85,7 +90,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Malvin Tech"
+      "value": "Malvin King"
 }, 
 
     "OWNER_NUMBER": {
@@ -98,7 +103,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦MALVIN-XD✦"
+      "value": "✦ᴍᴀʟᴠɪɴ xᴅ✦"
 
       }, 
 
