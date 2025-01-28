@@ -12,7 +12,7 @@ const {
 } = require("../command");
 const {
   fetchJson
-} = require("../lib/functions");
+} = require("../functions");
 cmd({
   'pattern': "logo",
   'desc': "Create logos",

@@ -20,7 +20,7 @@ const {
   runtime,
   sleep,
   fetchJson
-} = require("../lib/functions");
+} = require("../functions");
 const axios = require("axios");
 cmd({
   'pattern': 'rw',

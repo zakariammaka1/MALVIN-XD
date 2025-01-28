@@ -1,6 +1,6 @@
 const {
   fetchJson
-} = require("../lib/functions");
+} = require("../functions");
 const {
   downloadTiktok
 } = require("@mrnima/tiktok-downloader");

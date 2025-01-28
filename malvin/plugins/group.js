@@ -13,7 +13,7 @@ const {
   runtime,
   sleep,
   fetchJson
-} = require("../lib/functions");
+} = require("../functions");
 const _0x235552 = {
   'pattern': 'joinrequests',
   'desc': "Get list of participants who requested to join the group",

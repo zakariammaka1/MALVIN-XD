@@ -5,7 +5,7 @@ const {
 const yts = require("yt-search");
 const {
   fetchJson
-} = require('../lib/functions');
+} = require('../functions');
 const {
   ytsearch,
   ytmp3

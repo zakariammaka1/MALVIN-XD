@@ -8,7 +8,7 @@ Support      : wa.me/263714757857
 
 const config = require('../../config');
 const { cmd, commands } = require('../command');
-const { fetchJson } = require('../lib/functions');
+const { fetchJson } = require('../functions');
 
 
 cmd({

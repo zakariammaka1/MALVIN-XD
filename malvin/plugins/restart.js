@@ -1,5 +1,5 @@
 const { cmd } = require('../command');
-const { sleep } = require('../lib/functions');
+const { sleep } = require('../functions');
 
 cmd({
     pattern: "restart",

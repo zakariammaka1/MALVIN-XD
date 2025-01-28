@@ -4,7 +4,7 @@ const {
 } = require("../command");
 const {
   fetchJson
-} = require("../lib/functions");
+} = require("../functions");
 cmd({
   'pattern': 'ai',
   'alias': ["chatgpt", 'dj'],

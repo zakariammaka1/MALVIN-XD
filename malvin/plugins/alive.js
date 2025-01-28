@@ -5,7 +5,7 @@ const {
 const os = require('os');
 const {
   runtime
-} = require("../lib/functions");
+} = require("../functions");
 cmd({
   'pattern': "alive",
   'alias': ["status", "runtime", "uptime"],

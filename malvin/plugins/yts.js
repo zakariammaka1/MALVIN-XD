@@ -12,7 +12,7 @@ const {
   runtime,
   sleep,
   fetchJson
-} = require('../lib/functions');
+} = require('../functions');
 cmd({
   'pattern': "yts",
   'alias': ['ytsearch'],

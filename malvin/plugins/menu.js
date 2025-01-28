@@ -10,7 +10,7 @@ Support      : wa.me/263714757857
 const config = require('../../config')
 const {cmd , commands} = require('../command')
 const os = require("os")
-const {runtime} = require('../lib/functions')
+const {runtime} = require('../functions')
 cmd({
     pattern: "menu",
     alias: ["list"],

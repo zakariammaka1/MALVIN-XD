@@ -1,5 +1,5 @@
 const { cmd, commands } = require('../command');
-const { fetchJson } = require('../lib/functions');
+const { fetchJson } = require('../functions');
 
 cmd({
     pattern: "fetch",

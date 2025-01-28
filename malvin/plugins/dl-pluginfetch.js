@@ -8,7 +8,7 @@ Support      : wa.me/263714757857
 
 const {
   sleep
-} = require("../lib/functions");
+} = require("../functions");
 const {
   cmd,
   commands

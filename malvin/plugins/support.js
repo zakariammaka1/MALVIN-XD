@@ -9,7 +9,7 @@ Support      : wa.me/263714757857
 const config = require('../../config');
 const { cmd, commands } = require('../command');
 const os = require("os");
-const { runtime } = require('../lib/functions');
+const { runtime } = require('../functions');
 const axios = require('axios');
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)

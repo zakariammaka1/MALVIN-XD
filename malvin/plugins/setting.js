@@ -1,7 +1,7 @@
 
 const config = require('../../config');
 const { cmd, commands } = require('../command');
-const { runtime } = require('../lib/functions');
+const { runtime } = require('../functions');
 const axios = require('axios');
 
 function isEnabled(value) {

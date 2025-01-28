@@ -1,7 +1,7 @@
 const config = require('../../config');
 const { Sticker, StickerTypes } = require('wa-sticker-formatter');
 const { cmd } = require('../command');
-const { getRandom } = require('../lib/functions');
+const { getRandom } = require('../functions');
 
 var imgmsg = '';
 if (config.LANG === 'SI') imgmsg = 'Please mention a photo!!';

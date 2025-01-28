@@ -7,7 +7,7 @@ Support      : wa.me/263714757857
 
 const config = require('../../config');
 const { cmd, commands } = require('../command');
-const { fetchBuffer } = require('../lib/functions');
+const { fetchBuffer } = require('../functions');
 
 cmd({
   pattern: 'qrcode',
