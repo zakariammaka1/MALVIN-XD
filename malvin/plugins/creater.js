@@ -9,7 +9,7 @@ Support      : wa.me/263714757857
 
 
 const { cmd } = require('../command');
-const config = require('../config');
+const config = require('../../config');
 
 cmd({
     pattern: "owner",

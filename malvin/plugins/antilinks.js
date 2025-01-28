@@ -1,7 +1,7 @@
 const {
   cmd
 } = require('../command');
-const config = require('../config');
+const config = require('../../config');
 cmd({
   'on': "body"
 }, async (_0x970702, _0x24465d, _0xaaa5, {

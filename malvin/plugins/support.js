@@ -6,7 +6,7 @@ Support      : wa.me/263714757857
 */
 
 
-const config = require('../config');
+const config = require('../../config');
 const { cmd, commands } = require('../command');
 const os = require("os");
 const { runtime } = require('../lib/functions');

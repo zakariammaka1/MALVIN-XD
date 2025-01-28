@@ -55,7 +55,7 @@ const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 
 const fetch = require('node-fetch');
-const config = require('../config');    
+const config = require('../../config');    
 const { cmd } = require('../command');
 
 cmd({

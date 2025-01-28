@@ -5,7 +5,7 @@ Repo         : https//github.com/kingmalvn/MALVIN-XMD
 Support      : wa.me/263714757857
 */
 
-const config = require('../config');
+const config = require('../../config');
 const { cmd, commands } = require('../command');
 const { fetchBuffer } = require('../lib/functions');
 
