@@ -1,7 +1,7 @@
 
 const axios = require('axios');
 const yts = require('yt-search');
-const config = require('../../settings);
+const config = require('../../settings');
 const { cmd, commands } = require('../command');
 const { fetchJson } = require('../functions');
 
