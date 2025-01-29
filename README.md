@@ -68,34 +68,49 @@ src="https://files.catbox.moe/bddvfr.jpg?"/>
    <br>
     <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-•Now deploy.
+**• 1.1 Now deploy.**
+
     <br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmalvn/MALVIN-XD-Heroku) 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 **2.⏏️ DEPLOY VIA RAILWAY**
 
 [![Deploy to Railway](https://img.shields.io/badge/RAILWAY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black)](https://railway.com)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 **3. Koyeb Deploy**
 
 <p align="left">
 <a href='https://app.koyeb.com/services/deploy?type=git&repository=kingmalvn/MALVIN-XD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20MALVIN-XD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
    
 **4. Render Deploy**
 
 
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD)
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 **5. Replit Deploy**
 
 <p align="left">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> 
-   
 
- <h4 align="center">6. Workflow</h4>
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/>
+ 
+**7.  DEPLOY IN GLITCH**
+
+<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+**8.  DEPLOY TO CODESPACE**
+
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+ <h4 align="center">9. Workflow</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 
@@ -165,12 +180,12 @@ jobs:
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
    <br>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 
-
-----------
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <a href="https://youtube.com/@malvintech2"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
@@ -182,7 +197,7 @@ Stay connected with the latest updates and community by joining our official Wha
 <p style="text-align: center; font-size: 1.2em;">
   <strong>NB 🚫</strong><br>
    
-_ⁱ’ᵐ ⁿᵒᵗ ʳᵉˢᵖᵒⁿˢⁱᵇˡᵉ ᶠᵒʳ ʸᵒᵘ ᵐᵉˢˢⁱⁿᵍ ᵃʳᵒᵘⁿᵈ ᵃⁿᵈ ᵍᵉᵗᵗⁱⁿᵍ ʸᵒᵘʳ ᵃᶜᶜᵒᵘⁿᵗ ᵇᵃⁿⁿᵉᵈ. ᵃˢ ˡᵒⁿᵍ ᵃˢ ʸᵒᵘ ᵈᵒⁿ’ᵗ ᵐᵒᵈⁱᶠʸ ᵗʰᵉ ˢᵒᵘʳᶜᵉ ᶜᵒᵈᵉ ᵗᵒ ᶠⁱᵗ ʸᵒᵘʳ ⁱᵈⁱᵒᵗⁱᶜ ⁿᵉᵉᵈˢ, ʸᵒᵘ’ʳᵉ ᶠⁱⁿᵉ. ᵇᵘᵗ ˢᵉʳⁱᵒᵘˢˡʸ, ᵈᵒⁿ’ᵗ ᵍᵒ ˢᵖᵃᵐᵐⁱⁿᵍ ᵒᵗʰᵉʳˢ. ⁱ’ᵐ ᵗⁱʳᵉᵈ ᵒᶠ ʳᵉᵖᵉᵃᵗⁱⁿᵍ ᵗʰⁱˢ._
+_ᵗʰⁱˢ ⁱˢ ᵗʰᵉ ʳᵉˢᵘˡᵗ ᵒᶠ ᵐʸ  ʰᵃʳᵈ ʷᵒʳᵏ ᵃⁿᵈ ⁱ ᵐᵃˡᵛⁱⁿ ᵏⁱⁿᵍ  ᵒʷⁿˢ ᵗʰᵉ ᵇᵒᵗˢ ʳⁱᵍʰᵗˢ ᵃⁿᵈ ᶜᵒᵈᵉ ʳⁱᵍʰᵗˢ. ᵗʰᵉʳᵉᶠᵒʳᵉ, ʸᵒᵘ ʰᵃᵛᵉ ⁿᵒ ᶜʰᵃⁿᶜᵉ ᵗᵒ ᶜʰᵃⁿᵍᵉ ᵃⁿᵈ ˢᵘᵇᵐⁱᵗ ᵐʸ ᵇᵒᵗ ᵘⁿᵈᵉʳ ᵃⁿʸ ᶜⁱʳᶜᵘᵐˢᵗᵃⁿᶜᵉˢ._
 </p>
     
 ***
@@ -199,6 +214,8 @@ _ⁱ’ᵐ ⁿᵒᵗ ʳᵉˢᵖᵒⁿˢⁱᵇˡᵉ ᶠᵒʳ ʸᵒᵘ ᵐᵉˢˢ�
   <a href="https://wa.me/+263776388689?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-xᴅ+ʀᴇᴘᴏ!!.+ɪᴀᴍ+ᴀsᴋɪɴɢ+ғᴏʀ+ᴘᴇʀᴍɪssɪᴏɴ+ᴛᴏ+ᴄʟᴏɴᴇ+ʏᴏᴜʀ+ʙᴏᴛ+ɪ+ᴡɪʟʟ+ɢɪᴠᴇ+ᴘʀᴏᴘᴇʀ+ᴄʀᴇᴅɪᴛ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -green?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <br>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 ## Feedback
 If you have any feedback, please reach out to us at nexusxd.bot@gmail.com
