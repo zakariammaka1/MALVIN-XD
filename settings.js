@@ -91,5 +91,5 @@ AUTO_TYPING: process.env.AUTO_TYPING || "true",
 
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
 // make it true for auto recoding 
-OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39",
+
 };
