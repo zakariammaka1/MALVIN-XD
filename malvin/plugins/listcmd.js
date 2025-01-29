@@ -1,4 +1,4 @@
-const config = require('../../settings)
+const config = require('../../settings')
 const { cmd, commands } = require('../command');
 
 cmd({
