@@ -6,7 +6,7 @@ Support      : wa.me/263714757857
 */
 
 
-const config = require('../../settings);
+const config = require('../../settings');
 
 
 const {cmd , commands} = require('../command')
