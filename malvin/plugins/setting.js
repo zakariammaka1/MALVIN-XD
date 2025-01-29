@@ -1,5 +1,5 @@
 
-const config = require('../../config');
+const config = require('../../settings');
 const { cmd, commands } = require('../command');
 const { runtime } = require('../functions');
 const axios = require('axios');

@@ -10,7 +10,7 @@ Support      : wa.me/263714757857
 /*
 
 const { cmd, commands } = require('../command');
-const config = require('../config');
+const config = require('../settings');
 // repo info
 cmd({
     pattern: "repo",
@@ -55,7 +55,7 @@ const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 
 const fetch = require('node-fetch');
-const config = require('../../config');    
+const config = require('../../settings');    
 const { cmd } = require('../command');
 
 cmd({

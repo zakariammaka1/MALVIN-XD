@@ -16,7 +16,7 @@ const {
 cmd({
   'pattern': "yts",
   'alias': ['ytsearch'],
-  'use': ".yts jawad bahi",
+  'use': ".yts malvin xmd",
   'react': '🎶',
   'desc': "Search and get details from youtube.",
   'category': 'search',

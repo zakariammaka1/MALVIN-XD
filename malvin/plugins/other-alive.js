@@ -7,7 +7,7 @@ Support      : wa.me/263714757857
 
 
 
-const config = require('../../config')
+const config = require('../../settings')
 const {cmd , commands} = require('../command')
 cmd({
     pattern: "live",

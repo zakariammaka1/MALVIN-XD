@@ -202,7 +202,7 @@ cmd({
             'video': {
               'url': _0x3f9d82.links.SD
             },
-            'caption': "*© Powered Bʏ RHODVICK*"
+            'caption': "*© Powered Bʏ Nexus*"
           }, {
             'quoted': _0x3ddaca
           });
@@ -754,7 +754,7 @@ cmd({
                 },
                 'mimetype': 'application/zip',
                 'fileName': _0x339cc7.title + ".zip",
-                'caption': '*' + _0x339cc7.title + "*\n\n> Lααɾα-ᴍᴅ ✻"
+                'caption': '*' + _0x339cc7.title + "*\n\n> xᴍᴅ ✻"
               }, {
                 'quoted': _0x9a9db9
               });

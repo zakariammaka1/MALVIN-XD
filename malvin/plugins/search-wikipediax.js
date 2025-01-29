@@ -2,7 +2,7 @@
 
 
 
-const config = require('../../config');
+const config = require('../../settings');
 const { cmd, commands } = require('../command');
 const wiki = require('wikipedia');
 

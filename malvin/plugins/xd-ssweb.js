@@ -7,7 +7,7 @@ Support      : wa.me/263714757857
 
 
 const axios = require("axios");
-const config = require('../../config');
+const config = require('../../settings');
 const { cmd } = require('../command');
 
 cmd({
