@@ -58,6 +58,9 @@ src="https://files.catbox.moe/bddvfr.jpg?"/>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
+ ***Put your session id and edit your bot confings in the settings.js***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
 
 
 **Now Deploy to any hosting of ur choice**
@@ -69,7 +72,6 @@ src="https://files.catbox.moe/bddvfr.jpg?"/>
     <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 **• 1.1 Now deploy.**
-
     <br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmalvn/MALVIN-XD-Heroku) 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
