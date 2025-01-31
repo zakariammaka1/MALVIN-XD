@@ -50,11 +50,16 @@ src="https://files.catbox.moe/bddvfr.jpg?"/>
 *_You will need a session ID to run the MALVIN-XD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
 
 <p align="centre">
-<a href='https://malvinxpair-43d986d85eed.herokuapp.com/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://malvinxd-pair-fa60c7bfab6b.herokuapp.com/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+
+**2.2 QR CODE**
+
+<p align="centre">
+<a href='https://malvinxd-pair-fa60c7bfab6b.herokuapp.com/qr' target="_blank"><img alt='Qr Code' src='https://img.shields.io/badge/-Get Qr Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 **3. 2nd App session** 
 
-[![Get Session ID APP](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://malvinxpair-43d986d85eed.herokuapp.com/)
+[![Get Session ID APP](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://malvinxd-pair-fa60c7bfab6b.herokuapp.com/)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
