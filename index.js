@@ -113,7 +113,7 @@ const port = process.env.PORT || 9090;
   console.log('Bot connected to whatsapp ✅')
   
   let up = `*Hello there MALVIN-XD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet MALVIN XD WhatsApp Bot.\n\n *Thanks for using MALVIN-XD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/kingmalvn/MALVIN-XD\n\n> © Powered BY Malvin King \ud83d\udda4`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/juroe8.jpg` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/v1rf80.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
