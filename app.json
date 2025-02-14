@@ -1,8 +1,8 @@
 {
   "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
-  "description": "Javascript WhatsApp bot made by ɴᴇxᴜs ᴛᴇᴄʜ🪀",
+  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
   "logo": "https://files.catbox.moe/y65ffs.jpg",
-  "keywords": ["MALVIN XD"],
+  "keywords": ["MALVIN-XD"],
   "success_url": "/",
 
     "stack": "container",
@@ -13,24 +13,12 @@
       "value": ""
     },  
     
-    "MENU_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
+    "STICKER_NAME": {
+      "description": "type your sticker pack name.",
       "required": false,
-      "value": "https://files.catbox.moe/y65ffs.jpg"
+      "value": "MALVIN-XD"
     }, 
-    
-    "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
-      "required": false,
-      "value": "https://files.catbox.moe/ktd1l4.jpg"
-    }, 
-    
-    "LIVE_MSG": {
-      "description": "paste your alive message hear.",
-      "required": false,
-      "value": "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD⚡"
-    },
-    
+      
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
@@ -42,12 +30,6 @@
       "required": false,
       "value": "public"
       
-    },  
-    
-    "STICKER_NAME": {
-      "description": "type your sticker pack name.",
-      "required": false,
-      "value": "MALVIN-XD"
     },
     
     
@@ -75,11 +57,12 @@
       "value": "false"
     }, 
 
+
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
       "value": "true"
-     }, 
+    }, 
 
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
@@ -90,21 +73,21 @@
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 Seen by Nexus Tech🚀🔥*"
-    }, 
-
+      "value": "*🎉👀 Status Seen by ᴍᴀʟᴠɪɴ xᴅ 🚀🔥 🖤*"
+   
+     }, 
+    
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Malvin King"
-      
-     }, 
+      "value": "Mᴀʟᴠɪɴ Kɪɴɢ"
+}, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
@@ -116,14 +99,14 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ᴍᴀʟᴠɪɴ xᴅ✦"
+      "value": "ᴍᴀʟᴠɪɴ xᴅ ᴠ2"
 
       }, 
 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
@@ -136,13 +119,13 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BY ✦NEXUS TECH✦*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ᴍᴀʟᴠɪɴ ᴋɪɴɢ ᴛᴇᴄʜ✦ ɪɴᴄ *"
     },
 
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
@@ -156,50 +139,31 @@
       "required": false,
       "value": "false"
     },
-      "FAKE_TYPING": {
-      "description": "Make it true for fake typing.",
-      "required": false,
-      "value": "false"
-    },
-    
-    "CURRENT_STATU": {
-      "description": "Make it true for current status.",
-      "required": false,
-      "value": "false"
-    },
-    
+
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
       "required": false,
       "value": "false"
     },
-
-    "OWNER_REACT": {
-      "description": "Make it true if you only want react on Owner Massages.",
-      "required": false,
-      "value": "false"
-      
-    }, 
     
     "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
       "required": false,
       "value": "false"
-      }, 
-    
-    "ANTI_DEL_PATH": {
-      "description": "change it to -same- if you want to resend deleted message in same chat",
-      "required": false,
-      "value": "log"
       
     }, 
     
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍"
+      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     }, 
-
+    
+    "ANTI_DEL_PATH": {
+      "description": "change it to -same- if you want to resend deleted message in same chat",
+      "required": false,
+      "value": "log"
+    }, 
 
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
