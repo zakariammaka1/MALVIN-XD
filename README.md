@@ -63,7 +63,12 @@ src="https://files.catbox.moe/y65ffs.jpg?"/>
 *_You will need a session ID to run the MALVIN-XD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
 
 <p align="centre">
-<a href='https://xdv2-6da4623bf414.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://xdv2-6da4623bf414.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-pink?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+
+or
+
+<p align="centre">
+<a href='https://xdv23-6da4623bf414.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 **2.2 QR CODE**
 
