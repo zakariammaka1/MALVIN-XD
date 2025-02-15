@@ -59,6 +59,9 @@ src="https://files.catbox.moe/y65ffs.jpg?"/>
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
   <a href="https://github.com/kingmalvn/MALVIN-XD/fork"><img title="MALVIN-XD" src="https://img.shields.io/badge/FORK-MALVIN-XDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
    
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=🤖+𝗚𝗘𝗧+𝗕𝗢𝗧+𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗟𝗜𝗡𝗞𝗦+⤵️)](https://git.io/typing-svg) 
 
