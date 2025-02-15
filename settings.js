@@ -8,31 +8,19 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "",
 // add your Session Id 
 
-AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
-// make true or false status auto seen
-
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
-// make true if you want auto reply on status 
-
-AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-// make true if you want auto reply on status 
-
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by ᴍᴀʟᴠɪɴ xᴅ v2🚀🔥*",
-// set the auto reply massage on status reply  
-
 PREFIX: process.env.PREFIX || ".",
-// add your prifix for bot   
+// add your prifix for bot
 
-BOT_NAME: process.env.BOT_NAME || "ᴍᴀʟᴠɪɴ xᴅ ᴠ2",
-// add bot namw here for menu
-
-STICKER_NAME: process.env.STICKER_NAME || "MALVIN-XD",
-// type sticker pack name 
+BOT_NAME: process.env.BOT_NAME || "✦ᴍᴀʟᴠɪɴ xᴅ",
+// add bot name here for menu
 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
-// make this true for custum emoji react    
+// make this true for custum emoji react   
 
-CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
+STICKER_NAME: process.env.STICKER_NAME || "MALVIN-XD",
+// type sticker pack name  
+
+CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍",
 // chose custom react emojis by yourself 
 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
@@ -44,16 +32,16 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "263714757857",
 OWNER_NAME: process.env.OWNER_NAME || "✦ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ🪀✦",
 // add bot owner name
 
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ᴍᴀʟᴠɪɴ ᴋɪɴɢ ᴛᴇᴄʜ✦ ɪɴᴄ*",
+DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ɴᴇxᴜs ᴛᴇᴄʜ✦ ɪɴᴄ*",
 // add bot owner name    
 
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
 // add img for alive msg
 
 MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/y65ffs.jpg",
-// dont change img for menu
+// dont change menu image
 
-LIVE_MSG: process.env.LIVE_MSG || "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD",
 // add alive msg here 
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -63,7 +51,19 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
 
 ANTI_BAD: process.env.ANTI_BAD || "false",
-// false or true for anti bad words  
+// false or true for anti bad words
+
+AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+// make true or false status auto seen
+
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+// make true if you want auto reply on status 
+
+AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
+// make true if you want auto react on status (still testing)
+
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by ᴍᴀʟᴠɪɴ xᴅ 🚀🔥*",
+// set the auto reply massage on status reply    
 
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
@@ -80,14 +80,29 @@ AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
 
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+HEART_REACT: process.env.HEART_REACT || "false",
+// make this true or false for heart reactions only 
+
+OWNER_REACT: process.env.OWNER_REACT || "true",
+// make it true or fasle for only react on owner msg only 
+
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
 
-AUTO_TYPING: process.env.AUTO_TYPING || "false",
+AUTO_TYPING: process.env.AUTO_TYPING || "true",
 // true for automatic show typing   
+
+AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
+// make it true for auto recoding 
+
+FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
+// make it true for fake recoding 
+
+FAKE_TYPING: process.env.FAKE_TYPING || "false",
+// make it true for fake typing
 
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
@@ -101,6 +116,6 @@ ANTI_VV: process.env.ANTI_VV || "true",
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", 
 // change it to 'same' if you want to resend deleted message in same chat 
 
-AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
-// make it true for auto recoding 
+CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
+// make it true for current status 
 };
