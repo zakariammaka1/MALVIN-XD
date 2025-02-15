@@ -19,14 +19,9 @@ src="https://files.catbox.moe/y65ffs.jpg?"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg)
 <br>
-<p align="center">
-  <a href="https://github.com/kingmalvn?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kingmalvn"/></a>
-  <a href="https://github.com/kingmalvin?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kingmalvn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    </br></br>
-  <a href="https://github.com/DarkWinzo/Bosco">
-    <img src="https://komarev.com/ghpvc/?username=DarkWinzo&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
+<p align="center"
+  <a href="https://github.com/kingmalvn/MALVIN-XD">
+    <img src="https://komarev.com/ghpvc/?username=kingmalvn&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
   </a>
   
 </p> 
