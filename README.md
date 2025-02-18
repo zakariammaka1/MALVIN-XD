@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗠𝗔𝗟𝗩𝗜𝗡+𝗫𝗗+𝗩2 ❤️+;𝗠𝗔𝗟𝗩𝗜𝗡-+𝗫𝗗-+𝗩2 🎉;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗠𝗥-𝗠𝗔𝗟𝗩𝗜𝗡 ✔️" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=THIS+IS+MALVIN+XD+𝗩2 ❤️+;MALVIN-+XD-+𝗩2 🎉;CREATED+𝗕Y+MALVIN-KING ✔️" alt="Typing SVG" /></a>
   </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
